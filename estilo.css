@@ -1,0 +1,26 @@
+body{
+    color:blue;
+ background-color:blanchedalmond;
+text-align:center;
+
+}
+#menu {
+    text-align:left;
+justify-content: space-evenly;
+width: 20.333%;
+height: 200px;
+color: aqua;
+justify-content: space-around;
+white-space: 20px;
+}
+
+#sou{
+    font-display:unset;
+    position: relative;
+    top:0%;
+    margin-left: auto;
+}
+#analista{
+    margin-left: auto;
+
+}
